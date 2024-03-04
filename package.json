@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^10.3.3",
+    "@nestjs/core": "^10.3.3",
+    "@nestjs/swagger": "^7.3.0",
+    "rc-pagination": "^4.0.4",
+    "rc-table": "^7.40.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.55",
+    "next": "^14.1.0"
+  }
+}
